@@ -1,0 +1,31 @@
+h1{
+    color: firebrick;
+    background-color: rgb(33, 7, 95);
+    border: 6px solid black;
+}
+body{
+    background-color: fuchsia;
+}
+.grid img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.Origami{
+        border-radius: 20px;
+    background-color: white;
+    width: 310px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: white;
+}
